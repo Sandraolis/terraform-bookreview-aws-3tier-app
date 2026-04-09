@@ -199,6 +199,6 @@ terraform destroy --auto-approve
 
 ## 📌 Author
 
-Built with 💻 by [Pratyush Pahari](https://github.com/paharipratyush)
+Built with 💻 by [Sandra Olisama](https://github.com/Sandraolis)
 
 Feel free to ⭐ the repo if you found it useful!
